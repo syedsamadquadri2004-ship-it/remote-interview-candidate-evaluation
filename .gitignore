@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# local environment files
+.env
+.env.*
+!.env.example
+env.download
+
+# logs and local tooling
+*.log
+.DS_Store
+Thumbs.db
+.vercel/
+.convex/

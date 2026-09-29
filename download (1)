@@ -1,0 +1,4 @@
+# Deployment used by `npx convex dev`
+CONVEX_DEPLOYMENT=dev:befitting-monitor-195 # team: sai-kiran-gadi, project: sai-kiran
+
+NEXT_PUBLIC_CONVEX_URL=https://befitting-monitor-195.convex.cloud
